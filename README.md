@@ -8,6 +8,8 @@
 ## NodeJS
 * Yarn - Package manager
 * BabelJS - Compile ES6 to browser compatible JS
+ * Flow - Type checking for JS (Prefer over Typescript?)
+* Typescript - Type checking for 
 * Meteor - No idea what it is. Drupal esque api for NodeJS? https://www.meteor.com/
 * Webpack - Separate javascript into multiple files and let this compile them into a browser compatible package. https://webpack.github.io/
 * Browserify - Like webpack? 
