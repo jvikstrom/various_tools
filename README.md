@@ -1,4 +1,6 @@
 # various tools
+## Web stuff
+* Webcomponents - https://www.webcomponents.org/
 ## Design
 * Bootstrap
 * Ant Design
@@ -49,3 +51,6 @@
 * Bazel - Build system by Google. https://bazel.build/
 * Nginx - Load balancing/reverse proxy
 * Docker - It's nice
+
+
+https://medium.com/@harshabhat86/1000s-of-facebook-s-react-js-components-all-for-free-dcf28c7d2757
