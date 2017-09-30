@@ -103,3 +103,9 @@ JS/
      JS/components/containers/Login/login.action.js
      JS/components/containers/Login/login.reducer.js
      JS/components/containers/Login/login.actionType.js
+     
+ ## Open Source from China
+ https://github.com/Tencent
+ https://github.com/baidu
+ https://github.com/alibaba
+ https://alibaba.github.io/
